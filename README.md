@@ -33,3 +33,10 @@ PNG files are also included because SVG font rendering can get iffy.
 
 * Author: Susanne Nähler
 * Project: https://github.com/oreboot/oreboot
+
+## U-root
+
+![U-root](uroot.png)
+
+* Author: Anonymous (Not the group)
+* Project: https://github.com/u-root/u-root
